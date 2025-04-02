@@ -16,9 +16,7 @@
 - ☁️ Starting my **DevOps journey**  
 - 🤖 Integrating **AI/ML capabilities** into web applications  
 
-### 📊 GitHub Activity:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalil-t&show_icons=true&theme=radical)  
 
 ### 📫 Connect With Me:  
-[![Linkedin]([https://img.shields.io/badge/GitHub-khalil--t-black?style=for-the-badge&logo=github](https://www.linkedin.com/in/khalil-touil-787a91290/))](https://github.com/khalil-t)  
-[![EMAIL](https://img.shields.io/badge/LinkedIn-Khalil%20Touil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+[![Linkedin]([https://img.shields.io/badge/GitHub-khalil--t-black?style=for-the-badge&logo=github](https://www.linkedin.com/in/khalil-touil-787a91290/))]
+[![EMAIL](https://img.shields.io/badge/LinkedIn-Khalil%20Touil-blue?style=for-the-badge&logo=linkedin)]
