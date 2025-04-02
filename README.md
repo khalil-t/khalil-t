@@ -19,4 +19,4 @@
 
 ### 📫 Connect With Me:  
 [![Linkedin]([https://img.shields.io/badge/GitHub-khalil--t-black?style=for-the-badge&logo=github](https://www.linkedin.com/in/khalil-touil-787a91290/))]
-[![EMAIL](https://img.shields.io/badge/LinkedIn-Khalil%20Touil-blue?style=for-the-badge&logo=linkedin)]
+[![Email](https://img.shields.io/badge/Email-khalil.t@example.com-red?style=for-the-badge&logo=gmail)](mailto:khaliltouil2004s@gmail.com)
