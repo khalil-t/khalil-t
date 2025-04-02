@@ -19,6 +19,6 @@
 - 🤖 Integrating **AI/ML capabilities** into web applications  
 
 
-### 📫 Connect With Me:  
+### 📫 Connect :  
 
 [![Email](https://img.shields.io/badge/Email-khaliltouil2004s@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:khaliltouil2004s@gmail.com)
