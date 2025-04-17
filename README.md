@@ -8,7 +8,7 @@
 - 🖥 **Frontend:** React.js, Next.js  
 - ⚙️ **Backend:** Node.js, Express.js  
 - 🗄 **Database:** MongoDB  
-- 🛠 **Other Tools:** Git,  
+- 🛠 **Other Tools:** Git
 
 ### 🔧 Current Projects:  
 - 🛒 Developing an **E-commerce Platform**  
