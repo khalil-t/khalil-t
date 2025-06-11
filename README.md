@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://verpex.com/assets/uploads/images/blog/How-to-become-a-Backend-Developer.jpg?v=1665484477" 
        alt="Backend Developer Representation" 
-       width="600" />
+       width=100% />
 </p>
 
 ## 🚀 Full-Stack MERN Developer | Backend Specialist  
