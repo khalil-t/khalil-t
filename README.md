@@ -1,7 +1,7 @@
 # ✨ TOUIL KHALIL 👋  
 
 <p align="center">
-  <img src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg" 
+  <img src="https://i0.wp.com/newline.tech/wp-content/uploads/2023/07/Profession_-Backend-Developer.png?w=1366&quality=80&ssl=1" 
        alt="Backend Developer Representation" 
        width=100% />
 </p>
