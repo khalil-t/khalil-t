@@ -78,8 +78,8 @@ Participant, team and event management built with Next.js and REST APIs.
 
 ## Experience
 
-- **Frontend Intern** — DZ Travel *(2025)* · Next.js / React / TypeScript, built the blog module of the travel platform
-- **Backend Intern** — Union Delivery *(2025)* · Node.js / Express / TypeScript, REST APIs for a delivery management system
+- **Frontend ** — DZ Travel *(2025)* · Next.js / React / TypeScript, built the blog module of the travel platform
+- **Backend ** — Union Delivery *(2025)* · Node.js / Express / TypeScript, REST APIs for a delivery management system
 
 ---
 
