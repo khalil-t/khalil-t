@@ -22,7 +22,7 @@
 
 ## About
 
-Backend developer focused on secure, well-structured APIs with **Node.js, NestJS and MongoDB**, backed by solid full-stack skills in **React / Next.js**. Computer Science graduate from USTHB, Algiers.
+Backend developer focused on secure, well-structured APIs with **Node.js, NestJS and MongoDB**, backed by solid full-stack skills in **React / Next.js**. 
 
 ## Tech Stack
 
